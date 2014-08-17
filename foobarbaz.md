@@ -4,6 +4,6 @@
 
 * Bulleted lists
 * Bulleted lists
-* Bulleted listy
+* Bulleted lists
 
 Hello from Foo
