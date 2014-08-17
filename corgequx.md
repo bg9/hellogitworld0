@@ -8,4 +8,4 @@
 
 * bulleted list item
 * bulleted list item
-
+* bulleted list item
